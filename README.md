@@ -45,3 +45,15 @@ Another thing I realised is that digital literacy is not only about using tools,
 - Add projects and build practical experience  
 - Use these platforms effectively for future internships and opportunities 
 Creating this portfolio helped me understand the importance of a professional online presence. Using GitHub and LinkedIn improved my digital literacy, profile management, and confidence. I plan to keep updating my profiles and skills in the future.
+
+
+##Task 3:
+For this task, I used HackerRank and Google Forms. On HackerRank, I created an account and completed a beginner-level challenge, which helped me understand basic coding logic and how to solve problems step by step. It was a good introduction to coding practice platforms.
+
+For the collaboration part, I created a Google Form titled “Digital Literacy Awareness Quiz” with five questions. The quiz includes topics like digital literacy, safe internet practices, and email etiquette. I also viewed the responses in Google Sheets, which showed how data can be collected and analysed easily.
+
+This task helped me understand how these platforms can be useful in academics. Coding platforms help in improving programming and problem-solving skills, while tools like Google Forms are useful for collecting information, conducting quizzes, and working collaboratively. Overall, this was a useful experience and it improved both my technical and digital skills.
+
+
+##Task 4:
+
