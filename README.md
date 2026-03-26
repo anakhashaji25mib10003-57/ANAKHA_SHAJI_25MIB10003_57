@@ -5,6 +5,16 @@ Branch:Intergrated M.Tech in AI and Bioinformatics
 
 I am currently in my first year of my Integrated M.Tech program, and this portfolio is part of my initial step towards understanding digital literacy. Before doing this task, I used online platforms mostly for basic purposes, but I didn’t really think about how important it is to maintain a proper and professional digital presence.
 
+
+##Task 1
+For this task, I used Canva to create my digital literacy infographic. In my poster, I explained what digital literacy means as the ability to find, evaluate, and communicate information online. I also included important points about safe internet practices, such as using strong passwords, enabling two-factor authentication, and avoiding suspicious links.
+
+In addition, I added a section on email etiquette, where I highlighted the use of clear subject lines and professional greetings. I tried to keep the content simple and easy to understand so that students can quickly learn the basics just by looking at the poster.
+
+One thing I found a bit difficult was deciding how to organise all the information neatly in a single page without making it look too crowded. At the same time, it was interesting to design the layout and make the poster visually clear. Overall, this task helped me better understand digital literacy and how to present information in a simple and effective way.
+
+
+##Task 2
 While working on this, I started learning how platforms like GitHub, LinkedIn and Kaagle are actually used in real life. It is not just about creating an account, but about how we present our information, keep it updated, and make it useful for others to understand our skills and background.
 
 This task helped me improve my digital literacy in a practical way. I learned how to organise my information clearly, upload and manage files, and create a structured profile. I also understood how important it is to be accurate and responsible while sharing information online, since these profiles can be viewed by teachers, recruiters, and other professionals.
