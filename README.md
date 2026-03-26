@@ -109,7 +109,7 @@ Integrated M.Tech Student
 - Respect others’ opinions and communicate politely in comments and messages
 - Be mindful of what you like, share, or comment on, as it also reflects your personality
 
-  ## ❌ Don’ts - Don’t share personal or sensitive information like phone numbers, passwords, or location
+## ❌ Don’ts - Don’t share personal or sensitive information like phone numbers, passwords, or location
 - Don’t post offensive, inappropriate, or harmful content
 - Don’t use abusive or rude language while interacting online
 - Don’t click on or forward suspicious links, as they may be unsafe
@@ -151,4 +151,4 @@ The result can be serious. Money can be stolen from bank accounts, accounts can 
 - Report at: https://cybercrime.gov.in
 - Helpline: 1930
 
-### i have attache dan report document abouth my learning journey
+### i have attached an report document abouth my learning journey
