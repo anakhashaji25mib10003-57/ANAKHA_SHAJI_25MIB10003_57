@@ -101,7 +101,7 @@ Integrated M.Tech Student
 
 # Social Media Do’s and Don’ts 
 
-## ✅ Do’s 
+##  Do’s 
 - Keep your profile clean and professional, especially if it can be viewed by teachers or recruiters
 - Think before posting anything, as it can affect your image later
 - Use privacy settings to control who can see your information
@@ -109,7 +109,7 @@ Integrated M.Tech Student
 - Respect others’ opinions and communicate politely in comments and messages
 - Be mindful of what you like, share, or comment on, as it also reflects your personality
 
-## ❌ Don’ts - Don’t share personal or sensitive information like phone numbers, passwords, or location
+## Don’ts - Don’t share personal or sensitive information like phone numbers, passwords, or location
 - Don’t post offensive, inappropriate, or harmful content
 - Don’t use abusive or rude language while interacting online
 - Don’t click on or forward suspicious links, as they may be unsafe
