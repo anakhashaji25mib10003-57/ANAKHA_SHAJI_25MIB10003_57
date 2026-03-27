@@ -51,13 +51,14 @@ Creating this portfolio helped me understand the importance of a professional on
 For this task, I used HackerRank and Google Forms. On HackerRank, I created an account and completed a beginner-level challenge, which helped me understand basic coding logic and how to solve problems step by step. It was a good introduction to coding practice platforms.
 
 For the collaboration part, I created a Google Form titled “Digital Literacy Awareness Quiz” with five questions. The quiz includes topics like digital literacy, safe internet practices, and email etiquette. I also viewed the responses in Google Sheets, which showed how data can be collected and analysed easily.
+Google form respons link:https://docs.google.com/forms/d/e/1FAIpQLSeMSzASS2SUKYQ7blejjg8t9TMDmZ3ErHFwqDAswU94LN7H7w/viewform?usp=sharing&ouid=105672838029640845898
 
 This task helped me understand how these platforms can be useful in academics. Coding platforms help in improving programming and problem-solving skills, while tools like Google Forms are useful for collecting information, conducting quizzes, and working collaboratively. Overall, this was a useful experience and it improved both my technical and digital skills.
 
 
-###Task 4:
+##Task 4:
 
-## Part A  
+#Part A  
 #Email 1 — Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.
 
 Subject:Request for Extension on Assignment Submission 
